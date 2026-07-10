@@ -2,7 +2,7 @@
 
 A small, complete Retrieval Augmented Generation (RAG) service built with **Spring AI 2.0**, **Anthropic Claude**, and **PostgreSQL/PGvector**.
 
-It answers employee questions about a fictional company handbook (Nimbusfield Systems), grounding every answer in the actual document content instead of the model's training data. Full write-up: *[link to the DZone article once published]*.
+It answers employee questions about a fictional company handbook (Nimbusfield Systems), grounding every answer in the actual document content instead of the model's training data. Full write-up: https://dzone.com/articles/retrieval-augmented-generation-with-spring-ai-20-c.
 
 ## What it demonstrates
 
